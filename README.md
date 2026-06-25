@@ -23,6 +23,7 @@ This repository contains Task 1 of the Data Science & Analytics Internship by Fu
 ## Repository Structure
   * `Superstore Data Analysis.pbix` (Power BI File)
   * `Superstore sales report.pdf` (Final Written Deliverable)
+  * `Sample - Superstore.csv` (The source code)
 
 ## How to View the Dashboards
 To view the interactive Power BI dashboards:
